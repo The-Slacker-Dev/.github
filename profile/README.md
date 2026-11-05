@@ -21,9 +21,9 @@ We believe in writing clean code, letting automation do the heavy lifting, and c
 ---
 
 ### 👥 The Team
-* **Camden_dev.PH** — Lead Developer & Systems Builder
-* **Yalun** — Core Developer & Automation Specialist
-* **Cmystic** — Contributor & Software Engineer
+* **Camden_dev.PH** — Slacker & Systems Slacker
+* **Yalun** — Slacker & Automation Slacker
+* **Cmystic** — Slackre & Software Slacker
 
 ---
 
