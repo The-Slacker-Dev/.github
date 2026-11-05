@@ -23,7 +23,7 @@ We believe in writing clean code, letting automation do the heavy lifting, and c
 ### 👥 The Team
 * **Camden_dev.PH** — Slacker & Systems Slacker
 * **Yalun** — Slacker & Automation Slacker
-* **Cmystic** — Slackre & Software Slacker
+* **Cmystic** — Slacker & Software Slacker
 
 ---
 
